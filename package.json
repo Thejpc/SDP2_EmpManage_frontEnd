@@ -14,7 +14,7 @@
     "react-scripts": "3.4.1"
   },
   "engines": {
-  "node": "18.x"
+  "node": "16.x"
 },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
